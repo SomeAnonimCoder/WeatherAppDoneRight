@@ -5,11 +5,13 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import kotlinx.parcelize.Parcelize
 
-//заполнить
-
 @Parcelize
 @Entity(tableName = "cities")
 data class CityDataClass (
     @PrimaryKey(autoGenerate = true)
-    val id: Int
+    val id: Int,
+    val name: String,
+    val country: String,
+    val lon: Int,
+    val lat: Int
     ): Parcelable

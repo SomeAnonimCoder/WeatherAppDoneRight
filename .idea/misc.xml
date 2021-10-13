@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/drawable/list_items_background.xml" value="0.16018518518518518" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/activity_current.xml" value="0.18795289855072464" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/activity_forecast.xml" value="0.22" />
         <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/fragment_city.xml" value="0.19202898550724637" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/activity_search.xml" value="0.11330049261083744" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/dayly_forecast_item.xml" value="0.18795289855072464" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/forecast_item.xml" value="0.18795289855072464" />
+        <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/fragment_city.xml" value="0.2" />
         <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/fragment_forecast.xml" value="0.19202898550724637" />
         <entry key="..\:/Android_ALL/WeatherApp/app/src/main/res/layout/fragment_weather.xml" value="0.19202898550724637" />
       </map>
