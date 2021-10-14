@@ -1,4 +1,5 @@
 package com.example.weatherapp.di
 
-class AppComponent {
+
+interface AppComponent{
 }
