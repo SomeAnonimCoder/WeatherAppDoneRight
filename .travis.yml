@@ -1,8 +1,8 @@
 language: android
-jdk: oraclejdk8
+jdk: oraclejdk11
 dist: trusty
 android:
-  components:э
+  components:
     # The BuildTools version used by your project
     - build-tools-26.0.2
 
