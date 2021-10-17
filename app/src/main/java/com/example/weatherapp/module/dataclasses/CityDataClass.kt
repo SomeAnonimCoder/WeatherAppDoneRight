@@ -12,6 +12,8 @@ data class CityDataClass (
     val id: Int,
     val name: String,
     val country: String,
-    val lon: Int,
-    val lat: Int
+    val lon: Float,
+    val lat: Float
     ): Parcelable
+
+data class Cities(val cities : List<CityDataClass>)

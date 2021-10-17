@@ -1,4 +1,4 @@
-package com.example.weatherapp.data
+package com.example.weatherapp.data.local
 
 import androidx.lifecycle.LiveData
 import com.example.weatherapp.module.dataclasses.CityDataClass
